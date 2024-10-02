@@ -2,7 +2,7 @@
   
 ## 🐰 Hello ! Welcome to My Repositories 
 
-<img src="https://avatars.githubusercontent.com/u/183042421?v=4">
+<img src="https://blog.kakaocdn.net/dn/Fh5mr/btsHSo5Yk7v/Ox8KPsprjBVEpZCu1WVGqK/img.png">
 
 </center>
 
