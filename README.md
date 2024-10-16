@@ -30,7 +30,7 @@
 
 > **portfolio**　\
 > **email** 　　  smqq@naver.com \
-> **blog**&nbsp;&nbsp; 　　 
+> **blog**&nbsp;&nbsp; 　　https://blog.naver.com/smqq7107 
 
 
    
