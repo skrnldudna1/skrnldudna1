@@ -29,7 +29,7 @@
 풀스택 개발자 과정 학생
 
 > **portfolio**　\
-> **email** 　　  skrnldudna1@naver.com \
+> **email** 　　  smqq@naver.com \
 > **blog**&nbsp;&nbsp; 　　 
 
 
