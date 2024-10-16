@@ -44,4 +44,4 @@
 
     - Java 와 Git , HTML 기초 이해 
     - GitHub의 활용과 여러 프로그램으로 업로드 하는 방법 익히기
-    - 
+    - JavaScript 시작
