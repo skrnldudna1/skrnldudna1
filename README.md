@@ -45,8 +45,12 @@
 ## 진행사항
 <b>2024.09.24~</b>
 
-    - Java 와 Git , HTML 기초 이해 
+    - Java , Git , HTML 기초
     - GitHub의 활용과 여러 프로그램으로 업로드 하는 방법 익히기
-    - JavaScript 시작
-    - DB에 대한 이해 Oracle , MySQL
-    - JSP를 이용한 웹 다루기
+    - JavaScript 기초
+    - 데이터베이스 Oracle , MySQL
+    - JSP,Ajax
+    - Spring
+    - SpringBoot
+    - 데이터베이스 연동
+    - React : Node.js / Vite /
